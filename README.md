@@ -1,10 +1,10 @@
-- 👋 Hi, I’m kjarri@thaiiceland
-- 👀 I’m interested in coding (all kinds, Html, Javascript, Python, jQuery, PHP, Java, CSS .....)
-- 🌱 I’m currently learning many curses in Udemy.com (as of now, Mars 2021, Javascript)
+- 👋 Hi, I’m kjarri @ thaiiceland
+- 👀 I’m interested in coding (all Languages such as Python, HTML, Javascript, jQuery, PHP, Java, CSS .....)
+- 🌱 I have been taken many curses in Udemy.com and I will keep on learning more skills for ever...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at http://thaiiceland.is/other/samband.html (email form).
 - I can speak Icelandic and Thai (almost perfect, and can even read Thai), and my English is also very good.
-- My domains are thaiiceland.is and thaiiceland.com
+- My domains are thaiiceland.com and thaiiceland.is
 
 
 <!---
